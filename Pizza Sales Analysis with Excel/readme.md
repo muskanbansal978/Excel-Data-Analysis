@@ -1,4 +1,5 @@
-**Project Title**
+<h1>Project Title</h2>
+
 Comprehensive Sales Analysis for Pizza Delivery Business
 
 **Objective**
@@ -17,7 +18,7 @@ Order dates and times
 Ingredients used
 Customer purchase behaviors
 
-**Key Questions**
+<h2>Key Questions</h2>
 
 **Sales Performance Analysis**
 What is the total revenue generated over the period covered by the dataset?
@@ -39,7 +40,7 @@ Which ingredients are most commonly included in the best-selling pizzas?
 **Performance Metrics**
 Identify KPIs such as total revenue, total orders, total pizzas sold, average order value, and average pizzas per order.
 
-**Methodology**
+<h2>Methodology</h2>
 
 **Data Cleaning and Preparation:**
 Import and clean the dataset to handle missing values, incorrect data types, and inconsistencies.
@@ -56,11 +57,11 @@ Identify the best and worst-selling pizzas using sales data and perform a compar
 **Visualization**
 Create dashboards and visualizations to present findings in an easily interpretable format.
 
-**Tools Used**
+<h2>Tools Used</h2>
 Microsoft Excel for data analysis and visualization.
 Pivot tables, charts, and dashboards for summarizing and presenting data.
 
-**Deliverables**
+<h2>Deliverables</h2>
 A comprehensive report detailing the analysis findings.
 Visual dashboards highlighting key metrics and trends.
 Actionable recommendations based on the analysis.
